@@ -1,0 +1,79 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: 30 August, 2018 1:28 am
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.2.42
+WORDPRESS:	4.9.8
+PHP INFO:	7.2.7 | SAPI: apache2handler
+SERVER:		Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.2.7 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.9 Perl/v5.24.0 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 2048M (128M default) 
+MEMORY STACK: 16MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Not Supported 
+TABLES: total:13 | filtered:0 | create:13 
+FILTERED: [] 
+SQL CREATED: 20180830_beplanestudiocomunicacionyd_00913a87e6ba2e332016180830012757_database.sql 
+SQL FILE SIZE: 500.97KB (512994) 
+SQL FILE TIME: 2018-08-30 01:28:02 
+SQL RUNTIME: 0.07 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  /Users/paty/Desktop/Frontend/Trabajo-final/wordpress 
+ARCHIVE FILE: 20180830_beplanestudiocomunicacionyd_00913a87e6ba2e332016180830012757_archive.zip 
+FILTERS: *OFF* 
+DIRS:
+	not set 
+FILES:
+	not set 
+EXTS:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	31.91MB 
+STATS:	Dirs 191 | Files 1,679 
+SQL ADDED: 20180830_beplanestudiocomunicacionyd_00913a87e6ba2e332016180830012757_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 1870
+    [filename] => /Users/paty/Desktop/Frontend/Trabajo-final/wordpress/wp-snapshots/tmp/20180830_beplanestudiocomunicacionyd_00913a87e6ba2e332016180830012757_archive.zip
+    [comment] => 
+)
+ 
+COMPRESSION RESULT: '1' 
+COMPRESSED SIZE: 11.87MB 
+ARCHIVE RUNTIME: 3.96 sec. 
+MEMORY STACK: 16MB 
+
+******************************************************************************** 
+MAKE INSTALLER: 
+******************************************************************************** 
+Build Start 
+Build Finished 
+Preping for use 
+PACK SIZE:  
+Template parsed with new data 
+Complete [/Users/paty/Desktop/Frontend/Trabajo-final/wordpress/wp-snapshots/tmp/20180830_beplanestudiocomunicacionyd_00913a87e6ba2e332016180830012757_installer.php] 
+Added to archive 
+
+******************************************************************************** 
+INTEGRITY CHECKS: 
+******************************************************************************** 
+SQL File: 500.97KB 
+Installer File: 472.53KB 
+Archive File: 11.87MB  
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 4.47 sec.
+PEAK PHP MEMORY USED: 16MB
+DONE PROCESSING => 20180830_beplanestudiocomunicacionyd 30 August, 2018 1:28 am
+ 
